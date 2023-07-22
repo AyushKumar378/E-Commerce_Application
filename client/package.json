@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://ayuhkumar378.github.io/E-Commerce_Application",
+  "homepage": "https://AyuhKumar378.github.io/E-Commerce_Application",
   "proxy": "http://localhost:8080",
   "version": "0.1.0",
   "private": true,
